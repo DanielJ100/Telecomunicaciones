@@ -6,7 +6,7 @@ En los últimos año, las telecomunicaciones en Argentina han experimentado avan
 - Un analisis de variables tales como Poblacion, Accesos y penetracion del servicio de internet para identificar posibles correlaciones
 - Conclusiones de los posibles caminos o estrategias que debe desarrollar una empresa dentro de este sector para obtener una gran participacion de mercado.
 
-  ### Grafica 1. Ingresos ultimos 5 años de los principales servicios del sector de Telecomunicaciones
+### Grafica 1. Ingresos ultimos 5 años de los principales servicios del sector de Telecomunicaciones
 ![1. Ingresos principales servicios del sector de Telecomunicaciones ](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Ingresos%20por%20a%C3%B1o%20servicios%20de%20internet.PNG)
 
 Iniciamos nuestro analisis exploratorio generando una grafica de tendencia de los ingresos generados en los ultimos 5 años de los principales servicios de telecomunicaciones que utilizan el internet como base.
@@ -23,7 +23,8 @@ Se presenta una mayor adopción y dependencia de los servicios de telefonia movi
 La telefonía móvil es el principal generador de ingresos, y su crecimiento exponencial sugiere que seguirá siendo el líder en ingresos en el futuro cercano.
 
 En este análisis superficial del sector de las telecomunicaciones podemos ir concluyendo que las empresas deben generar mayores inversiones de capital en los servicios de telefonía móvil e Internet para capitalizar el crecimiento exponencial de las dos industrias.
-  ### Grafica 2. Principales servicio de la Telefonia Movil
+
+### Grafica 2. Principales servicio de la Telefonia Movil
   ![2.Principales servicios Telefonia Movil ](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Servicios%20telefonia%20Movil.PNG)
 
 Debido a los resutados de la primera grafica en donde pudimos observar que la telefonia movil genera la mayor cantidad de ingresos del sector de las telecomunicaciones con lo cual podemos inferir que se presenta una mayor adopcion y dependencia a este servicio. Quisimos introducirnos dentro de esta 
@@ -49,7 +50,7 @@ El incremento en accesos operativos indica que, aunque los métodos tradicionale
 
  Este cambio podría impulsar a las empresas a enfocarse más en la expansión de la capacidad de datos y mejorar la infraestructura de red para soportar el creciente uso de servicios de Internet móvil.  
 
-   ### Grafica 3. Accesos Internet por año
+### Grafica 3. Accesos Internet por año
   ![2.Acceso internet por año ](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Tipos%20de%20Acceso%20a%20internet.PNG)
 
 Ahora bien ya sabemos que los planes de datos y el internet en general como servicio, es la "punta de lanza" de las telecomunicaciones en Argentina. 
@@ -62,3 +63,24 @@ Con la siguiente grafica queremos identificar las distintas modalidades de acces
 
 #### Conclusiones 
  la evolución de las tecnologías de conexión a Internet muestra una clara preferencia por soluciones más rápidas y flexibles, con un marcado declive en el uso de tecnologías más antiguas como ADSL.
+
+## Penetracion de Mercado 
+
+### Grafica 4. Accesos a Internet por cada 100 hogares en Argentina
+  ![2.Acceso a Internet hogares](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Penetracion%20de%20Mercado%20Hogares%20Argentina.PNG)
+
+Una vez identificadas las formas de acceso a internet y la adopcion que se ha venido presentando con las conexiones de fibra optica y Wireless dado su velocidad y capacidad por parte de la poblacion Argentina. 
+Queremos empezar a identificar el comportamiento que se ha venido presentando en la acogida del servicio de internet o datos moviles por parte de la poblacion/ hogares de la Argentina
+
+#### Acceso a Internet por parte de los hogares argentinos
+
+- Con la siguiente grafica visualizamos el crecimiento del servicio de internet año tras año. Cada vez mas existen hogares argentinos con el servicio de internet. En 2014, había aproximadamente 50 accesos por cada 100 hogares, y para 2023, este número ha aumentado a cerca de 78 accesos.
+
+- El incremento anual es bastante consistente, con una tasa de crecimiento promedio de alrededor de 2.5 accesos adicionales por año.
+
+- A partir de 2020, hay una aceleración notable en el crecimiento, especialmente entre 2020 y 2021, donde los accesos aumentaron en casi 5 puntos.
+
+#### Aumento en la Penetración de Internet:
+
+La penetración de Internet ha mostrado un aumento constante y significativo en los últimos años, reflejando una mejor accesibilidad y disponibilidad de servicios de Internet para la población.
+ 
