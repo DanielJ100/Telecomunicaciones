@@ -23,3 +23,27 @@ Se presenta una mayor adopción y dependencia de los servicios de telefonia movi
 La telefonía móvil es el principal generador de ingresos, y su crecimiento exponencial sugiere que seguirá siendo el líder en ingresos en el futuro cercano.
 
 En este análisis superficial del sector de las telecomunicaciones podemos ir concluyendo que las empresas deben generar mayores inversiones de capital en los servicios de telefonía móvil e Internet para capitalizar el crecimiento exponencial de las dos industrias.
+  ### Grafica 2. Principales servicio de la Telefonia Movil
+  ![2.Principales servicios Telefonia Movil ](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Servicios%20telefonia%20Movil.PNG)
+Debido a los resutados de la primera grafica en donde pudimos observar que la telefonia movil genera la mayor cantidad de ingresos del sector de las telecomunicaciones con lo cual podemos inferir que se presenta una mayor adopcion y dependencia a este servicio. Quisimos introducirnos dentro de esta 
+para indentificar los serivicios que se prestan dentro de los paquetes de telefonia movil.
+
+#### SMS
+A lo largo de los años, hay una disminución constante y abismal en el uso de los mensajes, es probable que esto se de debido al auge de aplicaciones de mensajería instantánea como WhatsApp y Telegram.
+
+#### llamadas 
+las llamadas salientes también muestran una disminución año tras año. lo cual se puede llegar a presentar por el posibleme incremento en el uso de llamadas por Internet (VoIP). 
+
+#### Minutos 
+ Asi como las llamadas, el uso de minutos viene en una caida gradual año tras año.
+
+#### Accesos Operativos 
+
+Al contrario de los demas servicios, los accesos operativos muestran una tendencia de aumento año a año. Esto sugiere un incremento en el número de dispositivos conectados o suscriptores activos en la red de telefonía móvil, lo cual podría ser indicativo del crecimiento en el uso de datos móviles y dispositivos conectados.
+
+Tambien podemos inferir que dentro de los paquetes de telefonia movil el uso de datos moviles es el servicio clave para las personas a la hora de decidir volverse o no suscriptores activos de la red de telefonia movil
+
+#### Conclusiones
+El incremento en accesos operativos indica que, aunque los métodos tradicionales de comunicación están disminuyendo, el número de usuarios o dispositivos conectados a la red sigue aumentando. Esto podría estar relacionado con el aumento en el uso de servicios de datos y el crecimiento de dispositivos conectados.
+
+ Este cambio podría impulsar a las empresas a enfocarse más en la expansión de la capacidad de datos y mejorar la infraestructura de red para soportar el creciente uso de servicios de Internet móvil.  
