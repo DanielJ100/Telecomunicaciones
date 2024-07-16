@@ -110,5 +110,41 @@ Esto sugiere que la penetración en hogares puede estar ocurriendo a un ritmo m�
 
 - Además, el cambio a servicios de datos y aplicaciones de mensajería puede haber reducido la necesidad de múltiples líneas de telefonía móvil.
 
+### Grafica 7. Penetracion servicio de internet por hogares y habitantes en cada provincia de la Argentina
+  ![.Penetracion servicio internet por provincia](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Penetracion%20hogares%20y%20habitantes%20por%20provincia.PNG)
+
+Siguiendo con nustro analisis bajamos un escalon de profundidad para conocer la penetracion del servicio de internet por hogares y habitantes en las diferentes provincias de la Argentina. 
+
+#### Capital Federal:
+
+- Presenta la mayor penetración tanto por cada 100 habitantes (47.80) como por cada 100 hogares (117.02).
+Esto indica una alta tasa de conectividad en comparación con otras provincias.
+
+#### Buenos Aires y Córdoba:
+
+- Buenos Aires tiene una penetración de 27.68 por cada 100 habitantes y 80.96 por cada 100 hogares.
+Córdoba tiene una penetración similar de 27.76 por cada 100 habitantes, pero una penetración más alta de 90.67 por cada 100 hogares.
+Ambas provincias muestran una buena tasa de conectividad, aunque Córdoba destaca en la penetración por hogares
+
+#### Provincias con Penetración Baja:
+
+- Formosa (9.98 por cada 100 habitantes y 39.23 por cada 100 hogares) y Chaco (11.85 por cada 100 habitantes y 44.35 por cada 100 hogares) tienen las tasas más bajas de penetración.
+Estas provincias podrían ser objetivos importantes para estrategias de expansión de conectividad.
+
+#### Provincias Intermedias:
+
+- Provincias como Neuquén (23.78 por cada 100 habitantes y 79.91 por cada 100 hogares) y Santa Cruz (21.94 por cada 100 habitantes y 73.75 por cada 100 hogares) muestran tasas de penetración moderadas.
+Aunque no están en la cima, todavía tienen una conectividad significativa.
+
+#### Comparación entre Penetración por Habitantes y Hogares:
+- En general, la penetración por cada 100 hogares es significativamente mayor que la penetración por cada 100 habitantes.
+Esto sugiere que, aunque el acceso a internet es común en los hogares, no todos los individuos dentro de esas provincias pueden tener acceso individualmente.
+
+#### Conclusiones
+Las provincias más grandes y urbanizadas tienden a tener una mejor penetración, mientras que las más rurales o menos desarrolladas tienen una menor tasa de conectividad.
+
+Las provincias con menor penetración pueden ser áreas clave para el crecimiento y la expansión de servicios de internet. O la empresa se puede centrar en las provincias de con alta tasa de conectividad y pelear por una participacion mas grande del mercado. 
+
+La alta penetración por cada 100 hogares sugiere que el acceso a internet es más común en los hogares que a nivel individual, lo que podría deberse a varios factores, incluyendo la capacidad económica y la infraestructura disponible.
 
  
