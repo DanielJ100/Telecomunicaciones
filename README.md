@@ -197,7 +197,7 @@ Provincias como Capital Federal y Buenos Aires destacan por su infraestructura d
 
 - Existe una correlación positiva moderada entre el número de accesos y la penetración por cada 100 habitantes. Esto sugiere que a medida que aumentan los accesos, también aumenta la penetración por cada 100 habitantes, pero la relación no es muy fuerte.
 
--Existe una correlación positiva débil entre el número de accesos y la penetración por cada 100 hogares. Esto indica que el número de accesos tiene un efecto menor sobre la penetración por cada 100 hogares.
+- Existe una correlación positiva débil entre el número de accesos y la penetración por cada 100 hogares. Esto indica que el número de accesos tiene un efecto menor sobre la penetración por cada 100 hogares.
 
 - Las correlaciones débiles entre POBLACION con
 Penetracion_cada_100_hab y Penetracion_cada_100_hogares sugieren que la población por sí sola no es un predictor fuerte de estas tasas de penetración. Es decir que no porque una provincia tenga un gran numero de habitates puede llegar a tener una alta penetracion de internet tanto en habitantes como en hogares.
