@@ -48,3 +48,17 @@ Tambien podemos inferir que dentro de los paquetes de telefonia movil el uso de 
 El incremento en accesos operativos indica que, aunque los métodos tradicionales de comunicación están disminuyendo, el número de usuarios o dispositivos conectados a la red sigue aumentando. Esto podría estar relacionado con el aumento en el uso de servicios de datos y el crecimiento de dispositivos conectados.
 
  Este cambio podría impulsar a las empresas a enfocarse más en la expansión de la capacidad de datos y mejorar la infraestructura de red para soportar el creciente uso de servicios de Internet móvil.  
+
+   ### Grafica 3. Accesos Internet por año
+  ![2.Acceso internet por año ](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Tipos%20de%20Acceso%20a%20internet.PNG)
+
+Ahora bien ya sabemos que los planes de datos y el internet en general como servicio, es la "punta de lanza" de las telecomunicaciones en Argentina. 
+
+Con la siguiente grafica queremos identificar las distintas modalidades de acceso a internet que existen para conectarse a diferentes dispositivos y su comportamiento durante los ultimos años. 
+
+- La modalidad de acceso ADSL viene en un notable descenso siendo utilizada cada vez menos como forma de conectarse. 
+- Mientras que la fibra optica y el Wireless vienen en un  ascenso año tras año con lo cual podemos inferir que estas dos modalidades se han venido incrementando en su uso por la tendencia que existe a tener conexiones de alta velocidad y mayor capacidad (redes 3G, 4G y 5G).
+- Aunque tambien se ha incrementado el uso del cablemodem año tras año, vemos un ligero descenso en el año 2023 siendo superado tanto por la fibra optica y el Wireless. Sin embargo sigue siendo una de las principales tecnologias de conexión. 
+
+#### Conclusiones 
+ la evolución de las tecnologías de conexión a Internet muestra una clara preferencia por soluciones más rápidas y flexibles, con un marcado declive en el uso de tecnologías más antiguas como ADSL.
