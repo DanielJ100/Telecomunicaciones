@@ -83,4 +83,24 @@ Queremos empezar a identificar el comportamiento que se ha venido presentando en
 #### Aumento en la Penetración de Internet:
 
 La penetración de Internet ha mostrado un aumento constante y significativo en los últimos años, reflejando una mejor accesibilidad y disponibilidad de servicios de Internet para la población.
+
+### Grafica 5. Accesos a Internet por cada 100 habitantes en Argentina
+  ![5.Acceso a Internet habitantes](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Penetracion%20de%20Mercado%20internet%20por%20habitantes%20Argentina.PNG)
+
+Con respecto a la poblacion Argentina en general, tambien se nota un incremento año a año  en el uso del servicio de internet , para el año 2023 de cada 100 argentinos 24 tienen coneccion a internet con diferentes dispositivos
+
+- A partir de 2020, hay una aceleración notable en el crecimiento, especialmente entre 2020 y 2021, donde los accesos aumentaron en aproximadamente 1.6 puntos.
+
+#### Aumento en la Penetración de Internet:
+
+La penetración de Internet ha mostrado un aumento constante y significativo en los últimos años, reflejando una mejor accesibilidad y disponibilidad de servicios de Internet para la población general.
+
+#### Conclusion 
+
+- Comparacion 
+Aunque el crecimiento en accesos por cada 100 habitantes es notable, es menos pronunciado en comparación con el crecimiento de accesos por cada 100 hogares.
+
+Esto sugiere que la penetración en hogares puede estar ocurriendo a un ritmo más rápido, posiblemente debido a la mayor importancia de la conectividad en el hogar para múltiples dispositivos y usuarios. La empresa como tal deberia enfocarse en un mayor procentaje en prestar los servicios de internet en los hogares
+
+
  
