@@ -97,7 +97,6 @@ La penetración de Internet ha mostrado un aumento constante y significativo en 
 
 #### Conclusion 
 
-- Comparacion 
 Aunque el crecimiento en accesos por cada 100 habitantes es notable, es menos pronunciado en comparación con el crecimiento de accesos por cada 100 hogares.
 
 Esto sugiere que la penetración en hogares puede estar ocurriendo a un ritmo más rápido, posiblemente debido a la mayor importancia de la conectividad en el hogar para múltiples dispositivos y usuarios. La empresa como tal deberia enfocarse en un mayor procentaje en prestar los servicios de internet en los hogares
