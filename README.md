@@ -25,6 +25,7 @@ La telefonía móvil es el principal generador de ingresos, y su crecimiento exp
 En este análisis superficial del sector de las telecomunicaciones podemos ir concluyendo que las empresas deben generar mayores inversiones de capital en los servicios de telefonía móvil e Internet para capitalizar el crecimiento exponencial de las dos industrias.
   ### Grafica 2. Principales servicio de la Telefonia Movil
   ![2.Principales servicios Telefonia Movil ](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Servicios%20telefonia%20Movil.PNG)
+
 Debido a los resutados de la primera grafica en donde pudimos observar que la telefonia movil genera la mayor cantidad de ingresos del sector de las telecomunicaciones con lo cual podemos inferir que se presenta una mayor adopcion y dependencia a este servicio. Quisimos introducirnos dentro de esta 
 para indentificar los serivicios que se prestan dentro de los paquetes de telefonia movil.
 
