@@ -6,5 +6,5 @@ En los últimos año, las telecomunicaciones en Argentina han experimentado avan
 - Un analisis de variables tales como Poblacion, Accesos y penetracion del servicio de internet para identificar posibles correlaciones
 - Conclusiones de los posibles caminos o estrategias que debe desarrollar una empresa dentro de este sector para obtener una gran participacion de mercado.
 
-  
+  ### Grafica 1. Ingresos ultimos 5 años de los principales servicios del sector de Telecomunicaciones
 ![1. Ingresos principales servicios del sector de Telecomunicaciones ](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Ingresos%20por%20a%C3%B1o%20servicios%20de%20internet.PNG)
