@@ -31,24 +31,24 @@ Debido a los resutados de la primera grafica en donde pudimos observar que la te
 para indentificar los serivicios que se prestan dentro de los paquetes de telefonia movil.
 
 #### SMS
-A lo largo de los años, hay una disminución constante y abismal en el uso de los mensajes, es probable que esto se de debido al auge de aplicaciones de mensajería instantánea como WhatsApp y Telegram.
+- A lo largo de los años, hay una disminución constante y abismal en el uso de los mensajes, es probable que esto se de debido al auge de aplicaciones de mensajería instantánea como WhatsApp y Telegram.
 
 #### llamadas 
-las llamadas salientes también muestran una disminución año tras año. lo cual se puede llegar a presentar por el posibleme incremento en el uso de llamadas por Internet (VoIP). 
+- las llamadas salientes también muestran una disminución año tras año. lo cual se puede llegar a presentar por el posibleme incremento en el uso de llamadas por Internet (VoIP). 
 
 #### Minutos 
- Asi como las llamadas, el uso de minutos viene en una caida gradual año tras año.
+- Asi como las llamadas, el uso de minutos viene en una caida gradual año tras año.
 
 #### Accesos Operativos 
 
-Al contrario de los demas servicios, los accesos operativos muestran una tendencia de aumento año a año. Esto sugiere un incremento en el número de dispositivos conectados o suscriptores activos en la red de telefonía móvil, lo cual podría ser indicativo del crecimiento en el uso de datos móviles y dispositivos conectados.
+- Al contrario de los demas servicios, los accesos operativos muestran una tendencia de aumento año a año. Esto sugiere un incremento en el número de dispositivos conectados o suscriptores activos en la red de telefonía móvil, lo cual podría ser indicativo del crecimiento en el uso de datos móviles y dispositivos conectados.
 
 Tambien podemos inferir que dentro de los paquetes de telefonia movil el uso de datos moviles es el servicio clave para las personas a la hora de decidir volverse o no suscriptores activos de la red de telefonia movil
 
 #### Conclusiones
 El incremento en accesos operativos indica que, aunque los métodos tradicionales de comunicación están disminuyendo, el número de usuarios o dispositivos conectados a la red sigue aumentando. Esto podría estar relacionado con el aumento en el uso de servicios de datos y el crecimiento de dispositivos conectados.
 
- Este cambio podría impulsar a las empresas a enfocarse más en la expansión de la capacidad de datos y mejorar la infraestructura de red para soportar el creciente uso de servicios de Internet móvil.  
+Este cambio podría impulsar a las empresas a enfocarse más en la expansión de la capacidad de datos y mejorar la infraestructura de red para soportar el creciente uso de servicios de Internet móvil.  
 
 ### Grafica 3. Accesos Internet por año
   ![2.Acceso internet por año ](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Tipos%20de%20Acceso%20a%20internet.PNG)
@@ -93,13 +93,22 @@ Con respecto a la poblacion Argentina en general, tambien se nota un incremento 
 
 #### Aumento en la Penetración de Internet:
 
-La penetración de Internet ha mostrado un aumento constante y significativo en los últimos años, reflejando una mejor accesibilidad y disponibilidad de servicios de Internet para la población general.
+- La penetración de Internet ha mostrado un aumento constante y significativo en los últimos años, reflejando una mejor accesibilidad y disponibilidad de servicios de Internet para la población general.
 
 #### Conclusion 
 
 Aunque el crecimiento en accesos por cada 100 habitantes es notable, es menos pronunciado en comparación con el crecimiento de accesos por cada 100 hogares.
 
 Esto sugiere que la penetración en hogares puede estar ocurriendo a un ritmo más rápido, posiblemente debido a la mayor importancia de la conectividad en el hogar para múltiples dispositivos y usuarios. La empresa como tal deberia enfocarse en un mayor procentaje en prestar los servicios de internet en los hogares
+
+### Grafica 6. Accesos a telefonia movil por cada 100 habitantes en Argentina
+  ![6.Telefonia Movil por cada 100 habitantes](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Penetracion%20de%20mercado%20Telefonia%20Movil%20Numero%20de%20conecciones%20Argentina.PNG)
+
+  - Desde 2020 hasta 2023, los accesos han mostrado una tendencia al alza, recuperándose parcialmente después de la caída observada en años anteriores.
+
+- La reducción de accesos podría estar relacionada con la evolución de la tecnología y el cambio en las preferencias de los usuarios, como el aumento del uso de servicios de Internet móvil y la disminución del uso de múltiples líneas por persona.
+
+- Además, el cambio a servicios de datos y aplicaciones de mensajería puede haber reducido la necesidad de múltiples líneas de telefonía móvil.
 
 
  
