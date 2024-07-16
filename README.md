@@ -147,4 +147,59 @@ Las provincias con menor penetración pueden ser áreas clave para el crecimient
 
 La alta penetración por cada 100 hogares sugiere que el acceso a internet es más común en los hogares que a nivel individual, lo que podría deberse a varios factores, incluyendo la capacidad económica y la infraestructura disponible.
 
+### Grafica 8. Poblacion vs Accesos por provincia
+  ![.Poblacion y accesos por provincia](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Poblacion%20y%20accesos%20por%20provincia.PNG)
+
+#### Capital Federal:
+Tiene una población relativamente alta (2,890,151) pero destaca significativamente en accesos (1,474,367).
+La alta proporción de accesos respecto a la población indica una fuerte conectividad en la provincia.
+
+#### Buenos Aires:
+La provincia más poblada (14,911,542) y también presenta un gran número de accesos (5,011,620).
+Sin embargo, la proporción de accesos respecto a la población no es tan alta como en Capital Federal, sugiriendo una necesidad de mayor inversión en infraestructura de internet.
+
+#### Cordoba y Santa Fe:
+Córdoba (3,139,606 de población y 1,079,302 accesos) y Santa Fe (3,055,611 de población y 909,501 accesos) muestran una buena cantidad de accesos en relación a su población.
+Ambas provincias tienen un equilibrio razonable entre población y accesos, lo cual es positivo para la conectividad regional.
+
+#### Provincias con Menor Conectividad:
+Provincias como Formosa (452,714 de población y 62,002 accesos) y Chaco (927,414 de población y 147,386 accesos) presentan una notable brecha entre la población y los accesos.
+Estas provincias tienen una conectividad mucho más baja y pueden beneficiarse de políticas de desarrollo de infraestructura de internet.
+
+#### Provincias Intermedias:
+Provincias como Mendoza (1,654,993 de población y 299,351 accesos) y Tucumán (1,210,114 de población y 266,335 accesos) están en un rango intermedio.
+Aunque no tienen la mayor cantidad de accesos, muestran una conectividad considerable en relación a su población.
+
+#### Conclusiones 
+La comparación de las barras de población con las de accesos revela una tendencia en la que las provincias más urbanizadas y densamente pobladas tienden a tener un mayor número de accesos, lo cual es lógico debido a la mejor infraestructura y mayor demanda.
+
+La disparidad en accesos entre provincias como Buenos Aires y Capital Federal frente a Formosa y Chaco destaca la necesidad de políticas que busquen equilibrar la distribución de la infraestructura de internet a nivel nacional.
+
+Las provincias con baja proporción de accesos en relación a su población pueden ser objetivos clave para futuras inversiones en infraestructura de internet.
+
+### Grafica 9. Numero de Hogares vs Penetracion del servicio de internet por cada 100 hoagres
+  ![9.Numero de Hogares vs Penetracion del servicio de internet por cada 100 hoagres](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Numero%20de%20Hogares%20y%20penetracion%20cada%20100%20hogares.PNG)
+  
+#### Conclusiones 
+Existe una notable disparidad en la conectividad a internet entre las diferentes provincias. Algunas provincias, a pesar de tener menos hogares, muestran una alta penetración, mientras que otras con más hogares tienen una penetración relativamente baja.
+
+Las provincias con baja penetración normalizada necesitan políticas de desarrollo e inversión en infraestructura de internet para mejorar la conectividad.
+
+Provincias como Capital Federal y Buenos Aires destacan por su infraestructura de internet, mientras que otras como Formosa y Chaco necesitan mejoras significativas.
+
+
+### Grafica 10. Matriz de Correlacion
+  ![10. Correlacion entre variables](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Correlacion%20entre%20variables.PNG)
+
+- Existe una correlación positiva muy fuerte entre la población y el número de accesos, lo que indica que a medida que aumenta la población, también lo hace el número de accesos.
+
+- Existe una correlación positiva muy fuerte entre la penetración por cada 100 habitantes y la penetración por cada 100 hogares. Esto indica que estas dos variables están altamente relacionadas; a medida que una aumenta, la otra también lo hace casi en la misma proporción.
+
+- Existe una correlación positiva moderada entre el número de accesos y la penetración por cada 100 habitantes. Esto sugiere que a medida que aumentan los accesos, también aumenta la penetración por cada 100 habitantes, pero la relación no es muy fuerte.
+
+-Existe una correlación positiva débil entre el número de accesos y la penetración por cada 100 hogares. Esto indica que el número de accesos tiene un efecto menor sobre la penetración por cada 100 hogares.
+
+- Las correlaciones débiles entre POBLACION con
+Penetracion_cada_100_hab y Penetracion_cada_100_hogares sugieren que la población por sí sola no es un predictor fuerte de estas tasas de penetración. Es decir que no porque una provincia tenga un gran numero de habitates puede llegar a tener una alta penetracion de internet tanto en habitantes como en hogares.
+
  
