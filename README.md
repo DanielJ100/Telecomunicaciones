@@ -1,5 +1,7 @@
 # Sector de las Telecomunicaciones en Argentina
 En los últimos año, las telecomunicaciones en Argentina han experimentado avances significativos en varios frentes. El acceso a internet ha seguido expandiéndose, con un aumento en la penetración de banda ancha y una mayor adopción de tecnologías de fibra óptica. La telefónía móvil ha mantenido su vitalidad, con un incremento en el número de accesos y un aumento en la demanda de datos móviles. En cuanto a la TV por suscripción, se ha observado una continuidad en la migración hacia plataformas de streaming y contenido on-demand, aunque los servicios tradicionales aún mantienen una base de usuarios sólida. 
+
+
 ![ Telecomunicaciones ](https://github.com/DanielJ100/Telecomunicaciones/blob/master/Imagenes/Telecomunicaciones.PNG)
 
 ## En el siguiente análisis se proporcionara: 
